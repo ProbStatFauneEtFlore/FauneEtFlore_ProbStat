@@ -7,7 +7,7 @@
 - Impact de l’urbanisation sur les espèces (nécessite db externe)
 
 Data pre processing:
-- 
+ - mesurer l'impact du quality grade sur la précision
  - normaliser la donnée 
 
 
@@ -19,7 +19,6 @@ Problématiques:
 - Observation de la tendance dans un regroupement
     - Oui / non 
 - Observation de l’impact inter-espèces
-- Clustering des écosystèmes
 
 L’influence inter-espèces dans les différents écosystèmes Suisses
 La présence d’une espèce favorise-t-elle ou limite la présence d’une autre espèce ?
