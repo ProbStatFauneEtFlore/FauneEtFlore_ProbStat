@@ -1,0 +1,27 @@
+- Déterminer data user
+- Corrélations entre différentes espèces 
+- Mouvements d’espèces
+- Habitat, environnement des espèces
+- Constater l’évolution des espèces 
+- Changements du nombre 
+- Impact de l’urbanisation sur les espèces (nécessite db externe)
+
+Data pre processing:
+- 
+ - normaliser la donnée 
+
+
+Problématiques:
+- Co-occurence 
+- Regroupement pas écosystèmes 
+- Analyse de la structure type de tous les écosystèmes (prédateur, proie, végétaux)
+    - Oui / non
+- Observation de la tendance dans un regroupement
+    - Oui / non 
+- Observation de l’impact inter-espèces
+- Clustering des écosystèmes
+
+L’influence inter-espèces dans les différents écosystèmes Suisses
+La présence d’une espèce favorise-t-elle ou limite la présence d’une autre espèce ?
+Quel est l’impact de la présence d’une espèce sur son écosystème ? 
+Est-ce qu’une espèce est moins observée lorsqu’elle partage son écosystème avec une espèce dominante ?
